@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://referbruv.com/wp-content/uploads/2022/05/flutter-banner.png?ezimgfmt=rs%3Adevice%2Frscb3-1)
 <h1 align="center">Hi 👋, I'm Kushal Sharma</h1>
 <h3 align="center">A passionate flutter developer from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
